@@ -7,6 +7,11 @@ eg for calling the program: python a*algorithm.py INPUT/input1.txt OUTPUT/output
 
 Flag where the folders INPUT and OUTPUT should reside in the same folder as your program.
 
+Dependencies:
+install numpy
+
+pip3 install numpy
+
 • inputi.txt – the name of the input file, where i is the number of the input file;
 • outputi.txt – the name of the output file, where i is the number of the output file;
 • Flag – indicates how many node expansions require a diagnostic output (if it is 0, no diagnostic output is required) 
